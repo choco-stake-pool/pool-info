@@ -1,8 +1,8 @@
 {
-"name":"CHOCO#1007",
-"ticker":"CHOCO",
-"discordId":"877549689300459601",
-"pool-list":"true",
-"poolMetaData":"https://raw.githubusercontent.com/choco-stake-pool/pool-info/main/poolMetaData.json",
-"validation":"https://raw.githubusercontent.com/choco-stake-pool/pool-info/main/sjg-validation.json"
+  "name":"CHOCO#1007",
+  "ticker":"CHOCO",
+  "discordId":"877549689300459601",
+  "pool-list":"true",
+  "poolMetaData":"https://raw.githubusercontent.com/choco-stake-pool/pool-info/main/poolMetaData.json",
+  "validation":"https://raw.githubusercontent.com/choco-stake-pool/pool-info/main/sjg-validation.json"
 }
